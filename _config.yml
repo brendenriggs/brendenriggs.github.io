@@ -1,2 +1,1 @@
-remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
++theme: jekyll-theme-tactile 
